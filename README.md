@@ -17,3 +17,6 @@ GPU: NVIDIA GeForce GTX 770
 
 Memory: 13768MiB / 24576MiB 
        
+
+Installation: copy "EFI" folder to a Ventura USB flash disk installer, after updating your serial# and the rest of SMBIOS info (as per Dortania's OpenCore guide).
+When on the desktop, download Opencore Legacy Patcher (OCLP) and install root patches.
