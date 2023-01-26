@@ -9,8 +9,6 @@ Host: Hackintosh (SMBIOS: iMac19,1)
 
 Kernel: 22.3.0 
 
-Uptime: 2 hours, 6 mins 
-
 CPU: Intel i5-3570 (4) @ 3.40GHz 
 
 GPU: NVIDIA GeForce GTX 770 
