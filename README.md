@@ -20,3 +20,9 @@ Memory: 13768MiB / 24576MiB
 
 Installation: copy "EFI" folder to a Ventura USB flash disk installer, after updating your serial# and the rest of SMBIOS info (as per Dortania's OpenCore guide).
 When on the desktop, download Opencore Legacy Patcher (OCLP) and install root patches.
+
+
+Credits:
+- the Dortania team (AcidAnthera, mainly)
+- https://github.com/nickw444/opencore-efi-z77
+- https://github.com/chris1111/Geforce-Kepler-patcher/issues/73 (to enable Safari's "Developmental Features" and fix poor page rendering/crashes)
